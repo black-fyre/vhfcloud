@@ -1,5 +1,7 @@
 # vhfcloud
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bfc6fa78-861e-4fea-914a-c4b7b72588ee/deploy-status)](https://app.netlify.com/sites/vhfcloud/deploys)
+
 ## Project setup
 ```
 yarn install
